@@ -1,4 +1,4 @@
-# https://www.per-borgen-birthday-card.netlify.app
+# https://per-borgen-birthday-card.netlify.app
 
 Quick start:
 
